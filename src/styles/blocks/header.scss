@@ -1,7 +1,16 @@
 .header {
   background-image: url(../img/background/Cover_photo.png);
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 255%;
   background-position-x: 85%;
+
+  @include onTablet {
+    background-size: 107%;
+  }
+
+  @include onDesktop {
+    background-size: 100%;
+  }
 
   &__content {
     height: 100vh;

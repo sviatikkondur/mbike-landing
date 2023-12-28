@@ -75,6 +75,7 @@
     font-size: 14px;
     font-weight: 400;
     line-height: 140%;
+    transition: all $transition-time;
   }
 
   &__text {
@@ -82,6 +83,7 @@
     font-size: 16px;
     font-weight: 500;
     line-height: 140%;
+    transition: all $transition-time;
 
     &:hover {
       color: #7b7979;
