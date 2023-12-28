@@ -41,5 +41,7 @@
   "mateAcademy": {
     "projectType": "layout"
   },
-  "dependencies": {}
+  "dependencies": {
+    "mate-scripts": "0.0.1"
+  }
 }
