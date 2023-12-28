@@ -45,7 +45,7 @@ Feel free to customize the content, style, and structure of the landing page to 
 
 ## Demo
 
-Check out the live demo of the mBike landing page [here](YOUR_DEMO_LINK).
+Check out the live demo of the mBike landing page [here](https://sviatikkondur.github.io/mbike-landing/).
 
 ## Contributing
 
